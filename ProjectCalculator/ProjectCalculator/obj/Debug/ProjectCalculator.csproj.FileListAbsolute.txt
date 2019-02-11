@@ -1,0 +1,47 @@
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.csprojResolveAssemblyReference.cache
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.Form1.resources
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.Cache
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+C:\Users\lpare\AppData\Local\Temporary Projects\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csprojResolveAssemblyReference.cache
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Form1.resources
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.Cache
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+C:\Users\lpare\Documents\NBCC\WINTER 2018\PROG1311B\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
+F:\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+F:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+F:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
+F:\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+F:\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+F:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Form1.resources
+F:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+F:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.Cache
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Form1.resources
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.Cache
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
+C:\Users\lpare\Documents\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csprojResolveAssemblyReference.cache
+E:\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+E:\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+E:\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+E:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Form1.resources
+E:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+E:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.Cache
+E:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+E:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+E:\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
